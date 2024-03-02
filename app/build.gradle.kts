@@ -32,6 +32,7 @@ android {
 }
 
 dependencies {
+    implementation("com.ezylang:EvalEx:3.1.2")
 
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
